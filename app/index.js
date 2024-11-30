@@ -6,10 +6,10 @@ import { COLORS,icons,images,SIZES,SHADOWS } from '../constants';
 const App = () => {
     return (
         <View style={styles.container}>
-            <Text style={styles.text}>Hello, World!</Text>
+            <Text style={styles.text}>gggggg</Text>
         </View>
     );
 };
 
 
-export default App;
+export default App; 
