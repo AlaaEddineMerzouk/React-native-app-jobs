@@ -6,7 +6,9 @@ import { COLORS,icons,images,SIZES,SHADOWS } from '../constants';
 const App = () => {
     return (
         <View style={styles.container}>
-            <Text style={styles.text}>gggggg</Text>
+            <Text style={styles.text}>hhhhh
+                
+            </Text>
         </View>
     );
 };
